@@ -1,0 +1,29 @@
+# Keil / ARM build output
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.tra
+*.htm
+*.plg
+*.lnp
+
+# Keil generated files
+*.bak
+*.dep
+*.uvgui*
+*.uvoptx
+
+# Build logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+RFID_PROJECT.uvopt
+RFID_PROJECT.uvopt
